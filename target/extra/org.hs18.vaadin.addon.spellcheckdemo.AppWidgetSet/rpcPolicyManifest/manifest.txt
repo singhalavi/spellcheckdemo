@@ -1,0 +1,2 @@
+# Module org.hs18.vaadin.addon.spellcheckdemo.AppWidgetSet
+# RPC service class, partial path of RPC policy file
